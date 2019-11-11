@@ -1,0 +1,23 @@
+{
+  "name": "ktomi_eta",
+  "version": "1.0.0",
+  "description": "Éta csoport 1. szakaszzáró teszt",
+  "main": "eta_KTomi_teszt.js",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/flowacademyhu/eta_KTomi_szakaszzaro.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/flowacademyhu/eta_KTomi_szakaszzaro/issues"
+  },
+  "homepage": "https://github.com/flowacademyhu/eta_KTomi_szakaszzaro#readme"
+}
